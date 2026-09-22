@@ -1,7 +1,7 @@
 # Hi, I'm Samriddhi Yadav 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%26+Java);Building+Scalable+Web+Applications;RESTful+API+%26+Real-Time+Systems;Exploring+AI%2FML+Integration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%26+Java);Building+Scalable+Web+Applications;RESTful+API+%26+Real-Time+Systems;AI%2FRAG+Systems+Builder" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and is actively expanding into **AI/ML-driven applications** — I like being the person who can move from a database schema to a REST API to a polished UI without missing a beat.
+I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and **AI-powered systems** — I like being the person who can move from a database schema to a REST API to an LLM-backed feature without missing a beat.
 
 - 🚀 Building scalable web applications and RESTful APIs with real-time, production-grade architecture
+- 🤖 Designing AI/RAG (Retrieval-Augmented Generation) systems that connect LLMs to real data with grounded, cited answers
 - 🧠 Strong foundation in **DBMS**, **OOPs**, **Operating Systems**, and **Computer Networks**
-- 🔭 Currently deepening my skills in AI/ML integration alongside full-stack development
 - 🧩 500+ DSA problems solved on LeetCode with a focus on Arrays, Trees, Graphs, and Dynamic Programming
 - 📍 Lucknow, Uttar Pradesh, India
 - 📧 smr2dhiya@gmail.com | [LinkedIn](https://linkedin.com/in/samriddhi-yadav-0b6418237) | [GitHub](https://github.com/Smr2dhi)
@@ -35,6 +35,9 @@ I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and 
 
 **Backend:**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/REST) [![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
+
+**AI / RAG:**  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.github.io/openai-agents-python/) [![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/) [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 **Databases:**  
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -60,6 +63,23 @@ I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and 
 
 ## 🚀 Featured Projects
 
+### 🤖 GrepRAG — AI Knowledge Assistant
+
+A lightweight **Retrieval-Augmented Generation (RAG)** system that answers questions from your own documents — without a vector database. Instead, it uses **ripgrep** for fast, exact keyword search over the knowledge base: an LLM generates search keywords, `ripgrep` finds matching files and lines, the retrieved context is expanded around each match, and a **Gemini LLM** (via the OpenAI Agents SDK) generates a grounded answer with file-and-line citations.
+
+- Built a keyword-driven retrieval pipeline (`grep_search`) as an agent-callable tool, replacing embeddings with `ripgrep` for fast, explainable, traceable search
+- Integrated **Google Gemini** through its OpenAI-compatible API using the **OpenAI Agents SDK** for tool-calling and orchestration
+- Implemented document ingestion for `.txt`, `.md`, `.pdf`, and `.docx` files, plus persistent conversation memory
+- Designed a context-expansion layer that merges and de-duplicates surrounding lines around each match for richer, more useful LLM context
+- Shipped a **FastAPI** backend and **Streamlit** chat frontend, fully containerized with separate **Docker** images orchestrated via Docker Compose
+- Engineered the system to reduce hallucination by grounding every answer in cited, retrievable source text
+
+**Tools:** Python · FastAPI · OpenAI Agents SDK · Google Gemini · ripgrep · Streamlit · Docker · Docker Compose
+
+🔗 [github.com/Smr2dhi/ripGrep](https://github.com/Smr2dhi/ripGrep)
+
+---
+
 ### 🌐 Real-Time Web Builder Platform (with SDK Integration)
 *July 2025 – Dec 2025*
 
@@ -72,7 +92,7 @@ A real-time collaborative web builder enabling multiple users to create and edit
 
 **Tools:** Node.js · Express.js · Socket.io · WebRTC · MongoDB · React.js
 
-> 🔗 *Add your project link here*
+🔗 *Add your repo link here*
 
 ---
 

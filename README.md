@@ -1,7 +1,7 @@
 # Hi, I'm Samriddhi Yadav 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN+%26+Java);Building+Scalable+Web+Applications;RESTful+API+%26+Real-Time+Systems;AI%2FRAG+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%2F+RAG+Systems+Builder;Full+Stack+Developer+(MERN+%26+Java);Building+Scalable+Web+Applications;RESTful+API+%26+Real-Time+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ## 👩‍💻 About Me
 
-I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and **AI-powered systems** — I like being the person who can move from a database schema to a REST API to an LLM-backed feature without missing a beat.
+I'm a Full Stack Developer who builds **AI-powered systems** as well as scalable **MERN** and **Java** applications — I like being the person who can move from an LLM-backed feature to a REST API to a database schema without missing a beat.
 
-- 🚀 Building scalable web applications and RESTful APIs with real-time, production-grade architecture
 - 🤖 Designing AI/RAG (Retrieval-Augmented Generation) systems that connect LLMs to real data with grounded, cited answers
+- 🚀 Building scalable web applications and RESTful APIs with real-time, production-grade architecture
 - 🧠 Strong foundation in **DBMS**, **OOPs**, **Operating Systems**, and **Computer Networks**
 - 🧩 500+ DSA problems solved on LeetCode with a focus on Arrays, Trees, Graphs, and Dynamic Programming
 - 📍 Lucknow, Uttar Pradesh, India
@@ -27,6 +27,9 @@ I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and 
 
 ## 🛠️ Technical Expertise
 
+**AI / RAG:**  
+[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.github.io/openai-agents-python/) [![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/) [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
+
 **Languages & Core CS:**  
 [![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)](https://www.java.com/) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://en.wikipedia.org/wiki/SQL)
 
@@ -35,9 +38,6 @@ I'm a Full Stack Developer who works comfortably across **MERN**, **Java**, and 
 
 **Backend:**  
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/) [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/) [![REST APIs](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/REST) [![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)](https://jwt.io/) [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
-
-**AI / RAG:**  
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/) [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/) [![OpenAI Agents SDK](https://img.shields.io/badge/-OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white)](https://openai.github.io/openai-agents-python/) [![Gemini](https://img.shields.io/badge/-Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)](https://ai.google.dev/) [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://streamlit.io/)
 
 **Databases:**  
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/) [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -114,19 +114,6 @@ Ram Lagan Sr. Sec. School, Mau · **89.16%**
 - 🧮 **DSA with Java** – Coding Ninjas (500+ problems solved)
 - 🌐 **MERN Stack Full-Stack Development** Training
 - 🏆 Strong problem-solving skills in DSA (Arrays, Trees, Graphs, Dynamic Programming)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smr2dhi&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Smr2dhi&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smr2dhi&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-</p>
 
 ---
 
